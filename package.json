@@ -1,5 +1,5 @@
 {
-  "name": "ffss-uid-checker",
+  "name": "ffss-uid-checker-global",
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
